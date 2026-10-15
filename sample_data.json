@@ -1,0 +1,16 @@
+[
+  {
+    "employee_id": "EMP001",
+    "work_date": "2026-10-12",
+    "punch_in": {"$date": "2026-10-12T09:00:00Z"},
+    "punch_out": {"$date": "2026-10-12T17:30:00Z"},
+    "status": "completed"
+  },
+  {
+    "employee_id": "EMP002",
+    "work_date": "2026-10-12",
+    "punch_in": {"$date": "2026-10-12T09:15:00Z"},
+    "punch_out": null,
+    "status": "open"
+  }
+]
